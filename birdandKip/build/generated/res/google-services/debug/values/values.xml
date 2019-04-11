@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">406541348135-2ebjkp4jkv4rd4hj4pnmdghogkd1c5f1.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://storybook-birdandkip.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">406541348135</string>
+    <string name="google_api_key" translatable="false">AIzaSyBjacctZ6cSWnb32KvDinn7H-ooIMijvxg</string>
+    <string name="google_app_id" translatable="false">1:406541348135:android:749cdf7686c5a6f9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBjacctZ6cSWnb32KvDinn7H-ooIMijvxg</string>
+    <string name="google_storage_bucket" translatable="false">storybook-birdandkip.appspot.com</string>
+    <string name="project_id" translatable="false">storybook-birdandkip</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "406541348135",
+    "firebase_url": "https://storybook-birdandkip.firebaseio.com",
+    "project_id": "storybook-birdandkip",
+    "storage_bucket": "storybook-birdandkip.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406541348135:android:749cdf7686c5a6f9",
+        "android_client_info": {
+          "package_name": "com.littlefox.storybook.birdandkip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406541348135-2ebjkp4jkv4rd4hj4pnmdghogkd1c5f1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjacctZ6cSWnb32KvDinn7H-ooIMijvxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406541348135-2ebjkp4jkv4rd4hj4pnmdghogkd1c5f1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
