@@ -600,6 +600,7 @@ public class IntroActivity extends BaseActivity
 				CommonUtils.getInstance(IntroActivity.this).setSharedPreference(LittlefoxFirebaseMessagingService.PARAMS_FIREBASE_PUSH_TOKEN, instanceIdResult.getToken());
 			}
 		});
+
 	}
 
 
